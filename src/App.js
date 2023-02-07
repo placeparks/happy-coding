@@ -62,7 +62,7 @@ function App() {
       {
         
         loginProvider: "jwt",
-        redirectURL: "https://localhost:3000/",
+        redirectURL: "https://happy-coding.vercel.app/",
         extraLoginOptions: {
           domain: "https://shahbaz-torus.us.auth0.com",
           verifierIdField: "sub",
